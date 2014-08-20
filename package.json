@@ -1,0 +1,11 @@
+{
+  "name": "middle-child-day",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-autoprefixer": "*",
+    "grunt-contrib-sass": "*",
+    "grunt-contrib-watch": "*"
+  }
+}
